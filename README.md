@@ -2,7 +2,11 @@
 I'm Sina, a data enthusiast based in Turkey.
 Aspiring to build a career in the data analysis field, Currently, I am honing my skills as a data analyst through self-study, online courses, and hands-on projects. I enjoy exploring diverse datasets, employing statistical tools, and visualizing trends to tell compelling stories with data.
 
-Skills: Python / matlab 
+## Skills & Experience:
+Python 
+Matlab
+Trend Analysis
+Data Visualization
 
 
 
